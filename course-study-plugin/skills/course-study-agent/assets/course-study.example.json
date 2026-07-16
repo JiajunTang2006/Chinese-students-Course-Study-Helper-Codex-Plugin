@@ -1,0 +1,23 @@
+{
+  "rag": {
+    "include_dirs": [],
+    "exclude_globs": [],
+    "include_extracted": false,
+    "chunk_chars": 2400,
+    "chunk_overlap": 180,
+    "candidate_limit": 80,
+    "per_source_limit": 2,
+    "diversity": 0.22,
+    "dedupe_threshold": 0.92,
+    "minimum_should_match": 0.18,
+    "neighbor_window": 1,
+    "index_navigation": true,
+    "stopwords": [],
+    "synonyms": {
+      "人工智能": [
+        "artificial intelligence",
+        "AI"
+      ]
+    }
+  }
+}

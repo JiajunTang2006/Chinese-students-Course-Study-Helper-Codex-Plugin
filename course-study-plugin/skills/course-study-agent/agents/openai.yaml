@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国大学课程学习 Agent"
+  short_description: "面向中国大学课程的课件处理、中文笔记、考试复习、模拟题和本地检索"
+  default_prompt: "Use $course-study-agent to process my course materials into structured Chinese study notes."
